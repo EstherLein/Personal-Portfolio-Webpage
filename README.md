@@ -2,7 +2,7 @@ This is a responsive **Personal Portfolio website** built with HTML and CSS.
 The design is clean, modern, and mobile-friendly, featuring a navigation bar, 
 a welcome section, a projects section, and a contact section.
 
-#Features:
+#Features:#
 
 ##Fixed Navigation Bar: Allows easy access to different sections
 
