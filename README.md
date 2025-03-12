@@ -14,4 +14,4 @@ a welcome section, a projects section, and a contact section.
 
 **-Smooth Scrolling:** Enables seamless navigation between sections
 
-### Check out the project here: [Live Demo](https://estherlein.github.io/Personal-Portfolio-Webpage/)
+#### Check out the project here: [Live Demo](https://estherlein.github.io/Personal-Portfolio-Webpage/)
