@@ -14,4 +14,4 @@ Contact Section: Provides links for social media and email with smooth hover ani
 
 Smooth Scrolling: Enables seamless navigation between sections
 
-Check out the project here: [Live Demo](https://your-live-demo-link.com)
+Check out the project here: [Live Demo](https://estherlein.github.io/Personal-Portfolio-Webpage/)
